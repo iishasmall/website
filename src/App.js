@@ -15,7 +15,7 @@ class App extends Component {
          <p> whatever </p>
          <p>
          hello
-         no whatever whatever
+         no whatever whatever whatever
          </p>
 
           To get started, edit <code>src/App.js</code> and save to reload.
